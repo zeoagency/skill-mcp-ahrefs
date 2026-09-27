@@ -31,7 +31,7 @@ if ! grep -q "^---" "$SKILL_FILE"; then
   echo "❌ Error: SKILL.md missing opening frontmatter delimiter."
   exit 1
 fi
-if ! grep -q "^name: ahrefs-seo-intelligence" "$SKILL_FILE"; then
+if ! grep -q -E "^name: (skill-mcp-ahrefs|ahrefs-seo-intelligence)" "$SKILL_FILE"; then
   echo "❌ Error: SKILL.md missing or invalid 'name' property."
   exit 1
 fi

@@ -7,7 +7,7 @@
 
 set -euo pipefail
 
-SKILL_NAME="ahrefs-seo-intelligence"
+SKILL_NAME="skill-mcp-ahrefs"
 REPO_URL="https://github.com/zeoagency/skill-mcp-ahrefs.git"
 
 # Text formatting

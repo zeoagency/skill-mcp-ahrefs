@@ -1,5 +1,5 @@
 ---
-name: ahrefs-seo-intelligence
+name: skill-mcp-ahrefs
 description: Autonomous SEO intelligence and growth strategy engine for the Ahrefs MCP server (18 tools). Use when conducting technical SEO audits, competitor benchmarks, keyword research, content gap hijacking, striking distance quick wins, digital PR link prospecting, generative engine optimization (GEO/AEO), international market expansion, brand vs non-brand traffic splits, or querying stored analytical artifacts. Triggers on requests like 'audit domain SEO', 'find striking distance keywords', 'compare competitors in Ahrefs', 'analyze content gap', 'prospect backlinks', 'check AI Overview citations', 'query ahrefs artifact', 'international SEO audit', 'brand vs non-brand search split', or 'recover decaying content'.
 ---
 
